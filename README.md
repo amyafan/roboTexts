@@ -25,11 +25,11 @@ Story reported by Patrick Terpstra, analyses checked by Rachel Gold.
 * ** CGB_-\_Consumer_Complaints_Data.csv ** 
     * Consumer complaints from the FCC, downloaded July 28, 2022. 
     * Ticket 5632270 is the most recent complaint
-    * [Source] (https://opendata.fcc.gov/Consumer/CGB-Consumer-Complaints-Data/3xyp-aqkj/data)
+    * [Source](https://opendata.fcc.gov/Consumer/CGB-Consumer-Complaints-Data/3xyp-aqkj/data)
 
 * ** npa_report.csv ** 
     * data on area codes, downloaded August 23, 2022
-    * [Source] (https://www.nationalnanpa.com/reports/reports_npa.html) 
+    * [Source](https://www.nationalnanpa.com/reports/reports_npa.html) 
  
 ### /processed
 
